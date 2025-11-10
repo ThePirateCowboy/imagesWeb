@@ -1,0 +1,566 @@
+{
+  "categories": {
+    "Axe/WeaponSwingHeavy": [
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-01-",
+        "title": "Weapon-Swing-Heavy-A-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-01.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-02-",
+        "title": "Weapon-Swing-Heavy-A-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-02.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-03-",
+        "title": "Weapon-Swing-Heavy-A-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-03.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-04-",
+        "title": "Weapon-Swing-Heavy-A-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-04.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-05-",
+        "title": "Weapon-Swing-Heavy-A-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-05.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-06-",
+        "title": "Weapon-Swing-Heavy-A-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-06.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-07-",
+        "title": "Weapon-Swing-Heavy-A-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-07.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-08-",
+        "title": "Weapon-Swing-Heavy-A-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-08.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-09-",
+        "title": "Weapon-Swing-Heavy-A-09",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-09.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-09.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-10-",
+        "title": "Weapon-Swing-Heavy-A-10",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-10.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-10.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-11-",
+        "title": "Weapon-Swing-Heavy-A-11",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-11.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-11.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-12-",
+        "title": "Weapon-Swing-Heavy-A-12",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-12.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-12.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-13-",
+        "title": "Weapon-Swing-Heavy-A-13",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-13.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-13.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-14-",
+        "title": "Weapon-Swing-Heavy-A-14",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-14.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-14.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-15-",
+        "title": "Weapon-Swing-Heavy-A-15",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-15.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-15.peaks.json",
+        "dur": 1.36
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-01-",
+        "title": "Weapon-Swing-Heavy-B-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-01.peaks.json",
+        "dur": 1.27
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-02-",
+        "title": "Weapon-Swing-Heavy-B-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-02.peaks.json",
+        "dur": 1.27
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-03-",
+        "title": "Weapon-Swing-Heavy-B-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-03.peaks.json",
+        "dur": 1.27
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-04-",
+        "title": "Weapon-Swing-Heavy-B-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-04.peaks.json",
+        "dur": 1.27
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-05-",
+        "title": "Weapon-Swing-Heavy-B-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-05.peaks.json",
+        "dur": 1.30
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-06-",
+        "title": "Weapon-Swing-Heavy-B-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-06.peaks.json",
+        "dur": 1.27
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-07-",
+        "title": "Weapon-Swing-Heavy-B-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-07.peaks.json",
+        "dur": 1.27
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-08-",
+        "title": "Weapon-Swing-Heavy-B-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-08.peaks.json",
+        "dur": 1.27
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-09-",
+        "title": "Weapon-Swing-Heavy-B-09",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-09.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-09.peaks.json",
+        "dur": 1.27
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-10-",
+        "title": "Weapon-Swing-Heavy-B-10",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-10.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-10.peaks.json",
+        "dur": 1.27
+      },
+      {
+        "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-11-",
+        "title": "Weapon-Swing-Heavy-B-11",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-11.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-11.peaks.json",
+        "dur": 1.27
+      }
+    ],
+    "Axe/WeaponSwingLightV2": [
+      {
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-01--",
+        "title": "Weapon-Swing-LightV3-01 ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-01 .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-01 .peaks.json",
+        "dur": 0.87
+      },
+      {
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-02--",
+        "title": "Weapon-Swing-LightV3-02 ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-02 .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-02 .peaks.json",
+        "dur": 0.76
+      },
+      {
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-03--",
+        "title": "Weapon-Swing-LightV3-03 ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-03 .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-03 .peaks.json",
+        "dur": 0.64
+      },
+      {
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-04--",
+        "title": "Weapon-Swing-LightV3-04 ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04 .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04 .peaks.json",
+        "dur": 0.84
+      },
+      {
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-05--",
+        "title": "Weapon-Swing-LightV3-05 ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-05 .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-05 .peaks.json",
+        "dur": 0.71
+      },
+      {
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-06--",
+        "title": "Weapon-Swing-LightV3-06 ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-06 .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-06 .peaks.json",
+        "dur": 0.76
+      },
+      {
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-07--",
+        "title": "Weapon-Swing-LightV3-07 ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-07 .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-07 .peaks.json",
+        "dur": 0.71
+      },
+      {
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-08--",
+        "title": "Weapon-Swing-LightV3-08 ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-08 .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-08 .peaks.json",
+        "dur": 0.83
+      },
+      {
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-09--",
+        "title": "Weapon-Swing-LightV3-09 ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-09 .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-09 .peaks.json",
+        "dur": 0.72
+      },
+      {
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-10--",
+        "title": "Weapon-Swing-LightV3-10 ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-10 .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-10 .peaks.json",
+        "dur": 0.69
+      },
+      {
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-11--",
+        "title": "Weapon-Swing-LightV3-11 ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-11 .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-11 .peaks.json",
+        "dur": 0.83
+      }
+    ]
+  },
+  "tracks": {
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-01-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-01-",
+      "title": "Weapon-Swing-Heavy-A-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-01.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-02-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-02-",
+      "title": "Weapon-Swing-Heavy-A-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-02.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-03-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-03-",
+      "title": "Weapon-Swing-Heavy-A-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-03.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-04-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-04-",
+      "title": "Weapon-Swing-Heavy-A-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-04.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-05-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-05-",
+      "title": "Weapon-Swing-Heavy-A-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-05.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-06-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-06-",
+      "title": "Weapon-Swing-Heavy-A-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-06.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-07-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-07-",
+      "title": "Weapon-Swing-Heavy-A-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-07.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-08-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-08-",
+      "title": "Weapon-Swing-Heavy-A-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-08.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-09-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-09-",
+      "title": "Weapon-Swing-Heavy-A-09",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-09.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-09.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-10-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-10-",
+      "title": "Weapon-Swing-Heavy-A-10",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-10.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-10.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-11-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-11-",
+      "title": "Weapon-Swing-Heavy-A-11",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-11.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-11.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-12-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-12-",
+      "title": "Weapon-Swing-Heavy-A-12",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-12.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-12.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-13-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-13-",
+      "title": "Weapon-Swing-Heavy-A-13",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-13.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-13.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-14-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-14-",
+      "title": "Weapon-Swing-Heavy-A-14",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-14.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-14.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-15-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-A-15-",
+      "title": "Weapon-Swing-Heavy-A-15",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-15.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-A-15.peaks.json",
+      "dur": 1.36,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-01-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-01-",
+      "title": "Weapon-Swing-Heavy-B-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-01.peaks.json",
+      "dur": 1.27,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-02-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-02-",
+      "title": "Weapon-Swing-Heavy-B-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-02.peaks.json",
+      "dur": 1.27,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-03-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-03-",
+      "title": "Weapon-Swing-Heavy-B-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-03.peaks.json",
+      "dur": 1.27,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-04-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-04-",
+      "title": "Weapon-Swing-Heavy-B-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-04.peaks.json",
+      "dur": 1.27,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-05-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-05-",
+      "title": "Weapon-Swing-Heavy-B-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-05.peaks.json",
+      "dur": 1.30,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-06-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-06-",
+      "title": "Weapon-Swing-Heavy-B-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-06.peaks.json",
+      "dur": 1.27,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-07-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-07-",
+      "title": "Weapon-Swing-Heavy-B-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-07.peaks.json",
+      "dur": 1.27,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-08-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-08-",
+      "title": "Weapon-Swing-Heavy-B-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-08.peaks.json",
+      "dur": 1.27,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-09-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-09-",
+      "title": "Weapon-Swing-Heavy-B-09",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-09.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-09.peaks.json",
+      "dur": 1.27,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-10-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-10-",
+      "title": "Weapon-Swing-Heavy-B-10",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-10.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-10.peaks.json",
+      "dur": 1.27,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-11-": {
+      "id": "Axe--WeaponSwingHeavy--Weapon-Swing-Heavy-B-11-",
+      "title": "Weapon-Swing-Heavy-B-11",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-11.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingHeavy/Weapon-Swing-Heavy-B-11.peaks.json",
+      "dur": 1.27,
+      "category": "Axe/WeaponSwingHeavy"
+    },
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-01--": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-01--",
+      "title": "Weapon-Swing-LightV3-01 ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-01 .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-01 .peaks.json",
+      "dur": 0.87,
+      "category": "Axe/WeaponSwingLightV2"
+    },
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-02--": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-02--",
+      "title": "Weapon-Swing-LightV3-02 ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-02 .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-02 .peaks.json",
+      "dur": 0.76,
+      "category": "Axe/WeaponSwingLightV2"
+    },
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-03--": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-03--",
+      "title": "Weapon-Swing-LightV3-03 ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-03 .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-03 .peaks.json",
+      "dur": 0.64,
+      "category": "Axe/WeaponSwingLightV2"
+    },
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-04--": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-04--",
+      "title": "Weapon-Swing-LightV3-04 ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04 .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04 .peaks.json",
+      "dur": 0.84,
+      "category": "Axe/WeaponSwingLightV2"
+    },
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-05--": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-05--",
+      "title": "Weapon-Swing-LightV3-05 ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-05 .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-05 .peaks.json",
+      "dur": 0.71,
+      "category": "Axe/WeaponSwingLightV2"
+    },
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-06--": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-06--",
+      "title": "Weapon-Swing-LightV3-06 ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-06 .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-06 .peaks.json",
+      "dur": 0.76,
+      "category": "Axe/WeaponSwingLightV2"
+    },
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-07--": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-07--",
+      "title": "Weapon-Swing-LightV3-07 ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-07 .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-07 .peaks.json",
+      "dur": 0.71,
+      "category": "Axe/WeaponSwingLightV2"
+    },
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-08--": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-08--",
+      "title": "Weapon-Swing-LightV3-08 ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-08 .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-08 .peaks.json",
+      "dur": 0.83,
+      "category": "Axe/WeaponSwingLightV2"
+    },
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-09--": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-09--",
+      "title": "Weapon-Swing-LightV3-09 ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-09 .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-09 .peaks.json",
+      "dur": 0.72,
+      "category": "Axe/WeaponSwingLightV2"
+    },
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-10--": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-10--",
+      "title": "Weapon-Swing-LightV3-10 ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-10 .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-10 .peaks.json",
+      "dur": 0.69,
+      "category": "Axe/WeaponSwingLightV2"
+    },
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-11--": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-11--",
+      "title": "Weapon-Swing-LightV3-11 ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-11 .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-11 .peaks.json",
+      "dur": 0.83,
+      "category": "Axe/WeaponSwingLightV2"
+    }
+  },
+  "updated": 1762818261
+}
