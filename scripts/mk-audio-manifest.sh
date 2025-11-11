@@ -5,7 +5,7 @@ set -euo pipefail
 AUDIO_ROOT="WebsiteReady/AudioPlayer"
 MANIFEST="$AUDIO_ROOT/manifest.json"
 BASE_URL="https://thepiratecowboy.github.io/imagesWeb"   # your GitHub Pages prefix
-PPS=60      # pixels-per-second for waveform density (50–80 looks good)
+PPS=480      # pixels-per-second for waveform density (50–80 looks good)
 BITS=8      # 8-bit JSON stays small
 
 # ===== Setup / checks =====
