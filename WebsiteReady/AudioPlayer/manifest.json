@@ -262,6 +262,1071 @@
         "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-11.peaks.json",
         "dur": 0.83
       }
+    ],
+    "Fatigue/Breathe OUTward": [
+      {
+        "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-01-",
+        "title": "Fatigue-Laboured-Breathe-OUT-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-01.peaks.json",
+        "dur": 2.51
+      },
+      {
+        "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-02-",
+        "title": "Fatigue-Laboured-Breathe-OUT-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-02.peaks.json",
+        "dur": 2.62
+      },
+      {
+        "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-03-",
+        "title": "Fatigue-Laboured-Breathe-OUT-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-03.peaks.json",
+        "dur": 2.38
+      },
+      {
+        "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-04-",
+        "title": "Fatigue-Laboured-Breathe-OUT-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-04.peaks.json",
+        "dur": 2.59
+      },
+      {
+        "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-05-",
+        "title": "Fatigue-Laboured-Breathe-OUT-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-05.peaks.json",
+        "dur": 2.43
+      },
+      {
+        "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-06-",
+        "title": "Fatigue-Laboured-Breathe-OUT-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-06.peaks.json",
+        "dur": 2.49
+      },
+      {
+        "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-07-",
+        "title": "Fatigue-Laboured-Breathe-OUT-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-07.peaks.json",
+        "dur": 2.46
+      },
+      {
+        "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-08-",
+        "title": "Fatigue-Laboured-Breathe-OUT-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-08.peaks.json",
+        "dur": 1.83
+      }
+    ],
+    "Weapon-Melee/Fatigue": [
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-01-",
+        "title": "Fatigue-Breathe-VoiceOnly-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-01.peaks.json",
+        "dur": 1.20
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-02-",
+        "title": "Fatigue-Breathe-VoiceOnly-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-02.peaks.json",
+        "dur": 1.32
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-03-",
+        "title": "Fatigue-Breathe-VoiceOnly-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-03.peaks.json",
+        "dur": 1.39
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-04-",
+        "title": "Fatigue-Breathe-VoiceOnly-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-04.peaks.json",
+        "dur": 1.53
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-05-",
+        "title": "Fatigue-Breathe-VoiceOnly-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-05.peaks.json",
+        "dur": 1.57
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Heartbeat-Ascending-Long-NOLOOP-01-",
+        "title": "Fatigue-Heartbeat-Ascending-Long-NOLOOP-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Heartbeat-Ascending-Long-NOLOOP-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Heartbeat-Ascending-Long-NOLOOP-01.peaks.json",
+        "dur": 11.76
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Heartbeat-Loop-Constant-01-",
+        "title": "Fatigue-Heartbeat-Loop-Constant-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Heartbeat-Loop-Constant-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Heartbeat-Loop-Constant-01.peaks.json",
+        "dur": 2.94
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-01-",
+        "title": "Fatigue-Start-NoVoice-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-01.peaks.json",
+        "dur": 1.09
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-02-",
+        "title": "Fatigue-Start-NoVoice-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-02.peaks.json",
+        "dur": 1.09
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-03-",
+        "title": "Fatigue-Start-NoVoice-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-03.peaks.json",
+        "dur": 0.71
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-04-",
+        "title": "Fatigue-Start-NoVoice-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-04.peaks.json",
+        "dur": 1.09
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-05-",
+        "title": "Fatigue-Start-NoVoice-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-05.peaks.json",
+        "dur": 1.09
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-06-",
+        "title": "Fatigue-Start-NoVoice-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-06.peaks.json",
+        "dur": 1.09
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-01-",
+        "title": "Fatigue-Start-VoiceOnly-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-01.peaks.json",
+        "dur": 0.60
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-02-",
+        "title": "Fatigue-Start-VoiceOnly-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-02.peaks.json",
+        "dur": 0.58
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-03-",
+        "title": "Fatigue-Start-VoiceOnly-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-03.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-04-",
+        "title": "Fatigue-Start-VoiceOnly-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-04.peaks.json",
+        "dur": 0.57
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-05-",
+        "title": "Fatigue-Start-VoiceOnly-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-05.peaks.json",
+        "dur": 0.57
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-06-",
+        "title": "Fatigue-Start-VoiceOnly-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-06.peaks.json",
+        "dur": 0.59
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-01-",
+        "title": "Fatigue-Start-WithVoice-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-01.peaks.json",
+        "dur": 1.12
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-02-",
+        "title": "Fatigue-Start-WithVoice-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-02.peaks.json",
+        "dur": 1.09
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-03-",
+        "title": "Fatigue-Start-WithVoice-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-03.peaks.json",
+        "dur": 0.77
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-04-",
+        "title": "Fatigue-Start-WithVoice-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-04.peaks.json",
+        "dur": 1.09
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-05-",
+        "title": "Fatigue-Start-WithVoice-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-05.peaks.json",
+        "dur": 1.09
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-06-",
+        "title": "Fatigue-Start-WithVoice-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-06.peaks.json",
+        "dur": 1.10
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-01-",
+        "title": "Fatigue-Stop-NoVoice-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-01.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-02-",
+        "title": "Fatigue-Stop-NoVoice-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-02.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-03-",
+        "title": "Fatigue-Stop-NoVoice-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-03.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-04-",
+        "title": "Fatigue-Stop-NoVoice-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-04.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-05-",
+        "title": "Fatigue-Stop-NoVoice-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-05.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-06-",
+        "title": "Fatigue-Stop-NoVoice-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-06.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-07-",
+        "title": "Fatigue-Stop-NoVoice-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-07.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-08-",
+        "title": "Fatigue-Stop-NoVoice-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-08.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-01-",
+        "title": "Fatigue-Stop-VoiceOnly-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-01.peaks.json",
+        "dur": 0.62
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-02-",
+        "title": "Fatigue-Stop-VoiceOnly-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-02.peaks.json",
+        "dur": 0.60
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-03-",
+        "title": "Fatigue-Stop-VoiceOnly-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-03.peaks.json",
+        "dur": 0.57
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-04-",
+        "title": "Fatigue-Stop-VoiceOnly-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-04.peaks.json",
+        "dur": 0.59
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-05-",
+        "title": "Fatigue-Stop-VoiceOnly-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-05.peaks.json",
+        "dur": 0.54
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-06-",
+        "title": "Fatigue-Stop-VoiceOnly-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-06.peaks.json",
+        "dur": 0.57
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-07-",
+        "title": "Fatigue-Stop-VoiceOnly-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-07.peaks.json",
+        "dur": 0.58
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-08-",
+        "title": "Fatigue-Stop-VoiceOnly-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-08.peaks.json",
+        "dur": 0.57
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-01-",
+        "title": "Fatigue-Stop-WithVoice-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-01.peaks.json",
+        "dur": 0.90
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-02-",
+        "title": "Fatigue-Stop-WithVoice-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-02.peaks.json",
+        "dur": 0.87
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-03-",
+        "title": "Fatigue-Stop-WithVoice-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-03.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-04-",
+        "title": "Fatigue-Stop-WithVoice-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-04.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-05-",
+        "title": "Fatigue-Stop-WithVoice-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-05.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-06-",
+        "title": "Fatigue-Stop-WithVoice-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-06.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-07-",
+        "title": "Fatigue-Stop-WithVoice-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-07.peaks.json",
+        "dur": 0.86
+      },
+      {
+        "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-08-",
+        "title": "Fatigue-Stop-WithVoice-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-08.peaks.json",
+        "dur": 0.86
+      }
+    ],
+    "Footsteps/Concrete Land": [
+      {
+        "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-01-",
+        "title": "Minion_Concrete_Land-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-01.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-02-",
+        "title": "Minion_Concrete_Land-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-02.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-03-",
+        "title": "Minion_Concrete_Land-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-03.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-04-",
+        "title": "Minion_Concrete_Land-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-04.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-05-",
+        "title": "Minion_Concrete_Land-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-05.peaks.json",
+        "dur": 0.69
+      },
+      {
+        "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-06-",
+        "title": "Minion_Concrete_Land-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-06.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-07-",
+        "title": "Minion_Concrete_Land-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-07.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-08-",
+        "title": "Minion_Concrete_Land-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-08.peaks.json",
+        "dur": 0.69
+      },
+      {
+        "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-09-",
+        "title": "Minion_Concrete_Land-09",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-09.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-09.peaks.json",
+        "dur": 0.67
+      },
+      {
+        "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-10-",
+        "title": "Minion_Concrete_Land-10",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-10.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-10.peaks.json",
+        "dur": 0.68
+      }
+    ],
+    "Footsteps/Concrete": [
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-01-",
+        "title": "Minion_Concrete_Footstep-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-01.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-02-",
+        "title": "Minion_Concrete_Footstep-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-02.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-03-",
+        "title": "Minion_Concrete_Footstep-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-03.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-04-",
+        "title": "Minion_Concrete_Footstep-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-04.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-05-",
+        "title": "Minion_Concrete_Footstep-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-05.peaks.json",
+        "dur": 0.66
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-06-",
+        "title": "Minion_Concrete_Footstep-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-06.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-07-",
+        "title": "Minion_Concrete_Footstep-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-07.peaks.json",
+        "dur": 0.66
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-08-",
+        "title": "Minion_Concrete_Footstep-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-08.peaks.json",
+        "dur": 0.66
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-09-",
+        "title": "Minion_Concrete_Footstep-09",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-09.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-09.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-10-",
+        "title": "Minion_Concrete_Footstep-10",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-10.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-10.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-11-",
+        "title": "Minion_Concrete_Footstep-11",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-11.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-11.peaks.json",
+        "dur": 0.66
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-12-",
+        "title": "Minion_Concrete_Footstep-12",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-12.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-12.peaks.json",
+        "dur": 0.66
+      },
+      {
+        "id": "Footsteps--Concrete--Minion_Concrete_Footstep-13-",
+        "title": "Minion_Concrete_Footstep-13",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-13.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-13.peaks.json",
+        "dur": 0.66
+      }
+    ],
+    "Footsteps/Tile Land": [
+      {
+        "id": "Footsteps--Tile-Land--Minion_Tile_Land-01-",
+        "title": "Minion_Tile_Land-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-01.peaks.json",
+        "dur": 0.67
+      },
+      {
+        "id": "Footsteps--Tile-Land--Minion_Tile_Land-02-",
+        "title": "Minion_Tile_Land-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-02.peaks.json",
+        "dur": 0.67
+      },
+      {
+        "id": "Footsteps--Tile-Land--Minion_Tile_Land-03-",
+        "title": "Minion_Tile_Land-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-03.peaks.json",
+        "dur": 0.67
+      },
+      {
+        "id": "Footsteps--Tile-Land--Minion_Tile_Land-04-",
+        "title": "Minion_Tile_Land-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-04.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Tile-Land--Minion_Tile_Land-05-",
+        "title": "Minion_Tile_Land-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-05.peaks.json",
+        "dur": 0.67
+      },
+      {
+        "id": "Footsteps--Tile-Land--Minion_Tile_Land-06-",
+        "title": "Minion_Tile_Land-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-06.peaks.json",
+        "dur": 0.67
+      },
+      {
+        "id": "Footsteps--Tile-Land--Minion_Tile_Land-07-",
+        "title": "Minion_Tile_Land-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-07.peaks.json",
+        "dur": 0.67
+      },
+      {
+        "id": "Footsteps--Tile-Land--Minion_Tile_Land-08-",
+        "title": "Minion_Tile_Land-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-08.peaks.json",
+        "dur": 0.70
+      },
+      {
+        "id": "Footsteps--Tile-Land--Minion_Tile_Land-09-",
+        "title": "Minion_Tile_Land-09",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-09.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-09.peaks.json",
+        "dur": 0.67
+      },
+      {
+        "id": "Footsteps--Tile-Land--Minion_Tile_Land-10-",
+        "title": "Minion_Tile_Land-10",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-10.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-10.peaks.json",
+        "dur": 0.67
+      }
+    ],
+    "Footsteps/Tile": [
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-01-",
+        "title": "Minion_Tile_Footstep-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-01.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-02-",
+        "title": "Minion_Tile_Footstep-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-02.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-03-",
+        "title": "Minion_Tile_Footstep-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-03.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-04-",
+        "title": "Minion_Tile_Footstep-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-04.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-05-",
+        "title": "Minion_Tile_Footstep-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-05.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-06-",
+        "title": "Minion_Tile_Footstep-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-06.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-07-",
+        "title": "Minion_Tile_Footstep-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-07.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-08-",
+        "title": "Minion_Tile_Footstep-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-08.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-09-",
+        "title": "Minion_Tile_Footstep-09",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-09.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-09.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-10-",
+        "title": "Minion_Tile_Footstep-10",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-10.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-10.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-11-",
+        "title": "Minion_Tile_Footstep-11",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-11.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-11.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-12-",
+        "title": "Minion_Tile_Footstep-12",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-12.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-12.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Tile--Minion_Tile_Footstep-13-",
+        "title": "Minion_Tile_Footstep-13",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-13.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-13.peaks.json",
+        "dur": 0.65
+      }
+    ],
+    "Footsteps/Wood Land": [
+      {
+        "id": "Footsteps--Wood-Land--Minion_Wood_Land-01-",
+        "title": "Minion_Wood_Land-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-01.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Wood-Land--Minion_Wood_Land-02-",
+        "title": "Minion_Wood_Land-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-02.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Wood-Land--Minion_Wood_Land-03-",
+        "title": "Minion_Wood_Land-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-03.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Wood-Land--Minion_Wood_Land-04-",
+        "title": "Minion_Wood_Land-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-04.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Wood-Land--Minion_Wood_Land-05-",
+        "title": "Minion_Wood_Land-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-05.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Wood-Land--Minion_Wood_Land-06-",
+        "title": "Minion_Wood_Land-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-06.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Wood-Land--Minion_Wood_Land-07-",
+        "title": "Minion_Wood_Land-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-07.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Wood-Land--Minion_Wood_Land-08-",
+        "title": "Minion_Wood_Land-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-08.peaks.json",
+        "dur": 0.71
+      },
+      {
+        "id": "Footsteps--Wood-Land--Minion_Wood_Land-09-",
+        "title": "Minion_Wood_Land-09",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-09.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-09.peaks.json",
+        "dur": 0.68
+      },
+      {
+        "id": "Footsteps--Wood-Land--Minion_Wood_Land-10-",
+        "title": "Minion_Wood_Land-10",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-10.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-10.peaks.json",
+        "dur": 0.68
+      }
+    ],
+    "Footsteps/Wood": [
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-01-",
+        "title": "Minion_Wood_Footstep-01",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-01.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-01.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-02-",
+        "title": "Minion_Wood_Footstep-02",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-02.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-02.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-03-",
+        "title": "Minion_Wood_Footstep-03",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-03.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-03.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-04-",
+        "title": "Minion_Wood_Footstep-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-04.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-05-",
+        "title": "Minion_Wood_Footstep-05",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-05.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-05.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-06-",
+        "title": "Minion_Wood_Footstep-06",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-06.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-06.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-07-",
+        "title": "Minion_Wood_Footstep-07",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-07.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-07.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-08-",
+        "title": "Minion_Wood_Footstep-08",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-08.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-08.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-09-",
+        "title": "Minion_Wood_Footstep-09",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-09.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-09.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-10-",
+        "title": "Minion_Wood_Footstep-10",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-10.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-10.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-11-",
+        "title": "Minion_Wood_Footstep-11",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-11.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-11.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-12-",
+        "title": "Minion_Wood_Footstep-12",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-12.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-12.peaks.json",
+        "dur": 0.65
+      },
+      {
+        "id": "Footsteps--Wood--Minion_Wood_Footstep-13-",
+        "title": "Minion_Wood_Footstep-13",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-13.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-13.peaks.json",
+        "dur": 0.65
+      }
+    ],
+    "Jump/Archived": [
+      {
+        "id": "Jump--Archived--Minion_Jump-01---",
+        "title": "Minion_Jump-01  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-01  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-01  .peaks.json",
+        "dur": 0.22
+      },
+      {
+        "id": "Jump--Archived--Minion_Jump-02---",
+        "title": "Minion_Jump-02  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-02  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-02  .peaks.json",
+        "dur": 0.27
+      },
+      {
+        "id": "Jump--Archived--Minion_Jump-03---",
+        "title": "Minion_Jump-03  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-03  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-03  .peaks.json",
+        "dur": 0.19
+      },
+      {
+        "id": "Jump--Archived--Minion_Jump-04---",
+        "title": "Minion_Jump-04  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-04  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-04  .peaks.json",
+        "dur": 0.39
+      },
+      {
+        "id": "Jump--Archived--Minion_Jump-05---",
+        "title": "Minion_Jump-05  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-05  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-05  .peaks.json",
+        "dur": 0.37
+      },
+      {
+        "id": "Jump--Archived--Minion_Jump-06---",
+        "title": "Minion_Jump-06  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-06  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-06  .peaks.json",
+        "dur": 0.23
+      },
+      {
+        "id": "Jump--Archived--Minion_Jump-07---",
+        "title": "Minion_Jump-07  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-07  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-07  .peaks.json",
+        "dur": 0.27
+      },
+      {
+        "id": "Jump--Archived--Minion_Jump-08---",
+        "title": "Minion_Jump-08  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-08  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-08  .peaks.json",
+        "dur": 0.24
+      },
+      {
+        "id": "Jump--Archived--Minion_Jump-09---",
+        "title": "Minion_Jump-09  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-09  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-09  .peaks.json",
+        "dur": 0.36
+      },
+      {
+        "id": "Jump--Archived--Minion_Jump-10---",
+        "title": "Minion_Jump-10  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-10  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-10  .peaks.json",
+        "dur": 0.23
+      }
+    ],
+    "Jump/Flip": [
+      {
+        "id": "Jump--Flip--Minion_Flip-01---",
+        "title": "Minion_Flip-01  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-01  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-01  .peaks.json",
+        "dur": 0.31
+      },
+      {
+        "id": "Jump--Flip--Minion_Flip-02---",
+        "title": "Minion_Flip-02  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-02  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-02  .peaks.json",
+        "dur": 0.32
+      },
+      {
+        "id": "Jump--Flip--Minion_Flip-03---",
+        "title": "Minion_Flip-03  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-03  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-03  .peaks.json",
+        "dur": 0.30
+      },
+      {
+        "id": "Jump--Flip--Minion_Flip-04---",
+        "title": "Minion_Flip-04  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-04  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-04  .peaks.json",
+        "dur": 0.31
+      },
+      {
+        "id": "Jump--Flip--Minion_Flip-05---",
+        "title": "Minion_Flip-05  ",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-05  .wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-05  .peaks.json",
+        "dur": 0.30
+      }
+    ],
+    "Jump/JumpV2": [
+      {
+        "id": "Jump--JumpV2--Minion_JumpV2-01_0dB-",
+        "title": "Minion_JumpV2-01_0dB",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-01_0dB.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-01_0dB.peaks.json",
+        "dur": 1.16
+      },
+      {
+        "id": "Jump--JumpV2--Minion_JumpV2-02_0dB-",
+        "title": "Minion_JumpV2-02_0dB",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-02_0dB.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-02_0dB.peaks.json",
+        "dur": 1.16
+      },
+      {
+        "id": "Jump--JumpV2--Minion_JumpV2-03_0dB-",
+        "title": "Minion_JumpV2-03_0dB",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-03_0dB.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-03_0dB.peaks.json",
+        "dur": 1.21
+      },
+      {
+        "id": "Jump--JumpV2--Minion_JumpV2-04_0dB-",
+        "title": "Minion_JumpV2-04_0dB",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-04_0dB.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-04_0dB.peaks.json",
+        "dur": 1.16
+      },
+      {
+        "id": "Jump--JumpV2--Minion_JumpV2-05_0dB-",
+        "title": "Minion_JumpV2-05_0dB",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-05_0dB.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-05_0dB.peaks.json",
+        "dur": 1.16
+      },
+      {
+        "id": "Jump--JumpV2--Minion_JumpV2-06_0dB-",
+        "title": "Minion_JumpV2-06_0dB",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-06_0dB.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-06_0dB.peaks.json",
+        "dur": 1.16
+      },
+      {
+        "id": "Jump--JumpV2--Minion_JumpV2-07_0dB-",
+        "title": "Minion_JumpV2-07_0dB",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-07_0dB.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-07_0dB.peaks.json",
+        "dur": 1.16
+      },
+      {
+        "id": "Jump--JumpV2--Minion_JumpV2-08_0dB-",
+        "title": "Minion_JumpV2-08_0dB",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-08_0dB.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-08_0dB.peaks.json",
+        "dur": 1.16
+      }
     ]
   },
   "tracks": {
@@ -560,7 +1625,1199 @@
       "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-11.peaks.json",
       "dur": 0.83,
       "category": "Axe/WeaponSwingLightV2"
+    },
+    "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-01-": {
+      "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-01-",
+      "title": "Fatigue-Laboured-Breathe-OUT-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-01.peaks.json",
+      "dur": 2.51,
+      "category": "Fatigue/Breathe OUTward"
+    },
+    "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-02-": {
+      "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-02-",
+      "title": "Fatigue-Laboured-Breathe-OUT-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-02.peaks.json",
+      "dur": 2.62,
+      "category": "Fatigue/Breathe OUTward"
+    },
+    "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-03-": {
+      "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-03-",
+      "title": "Fatigue-Laboured-Breathe-OUT-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-03.peaks.json",
+      "dur": 2.38,
+      "category": "Fatigue/Breathe OUTward"
+    },
+    "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-04-": {
+      "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-04-",
+      "title": "Fatigue-Laboured-Breathe-OUT-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-04.peaks.json",
+      "dur": 2.59,
+      "category": "Fatigue/Breathe OUTward"
+    },
+    "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-05-": {
+      "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-05-",
+      "title": "Fatigue-Laboured-Breathe-OUT-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-05.peaks.json",
+      "dur": 2.43,
+      "category": "Fatigue/Breathe OUTward"
+    },
+    "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-06-": {
+      "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-06-",
+      "title": "Fatigue-Laboured-Breathe-OUT-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-06.peaks.json",
+      "dur": 2.49,
+      "category": "Fatigue/Breathe OUTward"
+    },
+    "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-07-": {
+      "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-07-",
+      "title": "Fatigue-Laboured-Breathe-OUT-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-07.peaks.json",
+      "dur": 2.46,
+      "category": "Fatigue/Breathe OUTward"
+    },
+    "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-08-": {
+      "id": "Fatigue--Breathe-OUTward--Fatigue-Laboured-Breathe-OUT-08-",
+      "title": "Fatigue-Laboured-Breathe-OUT-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Breathe OUTward/Fatigue-Laboured-Breathe-OUT-08.peaks.json",
+      "dur": 1.83,
+      "category": "Fatigue/Breathe OUTward"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-01-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-01-",
+      "title": "Fatigue-Breathe-VoiceOnly-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-01.peaks.json",
+      "dur": 1.20,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-02-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-02-",
+      "title": "Fatigue-Breathe-VoiceOnly-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-02.peaks.json",
+      "dur": 1.32,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-03-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-03-",
+      "title": "Fatigue-Breathe-VoiceOnly-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-03.peaks.json",
+      "dur": 1.39,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-04-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-04-",
+      "title": "Fatigue-Breathe-VoiceOnly-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-04.peaks.json",
+      "dur": 1.53,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-05-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Breathe-VoiceOnly-05-",
+      "title": "Fatigue-Breathe-VoiceOnly-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Breathe-VoiceOnly-05.peaks.json",
+      "dur": 1.57,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Heartbeat-Ascending-Long-NOLOOP-01-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Heartbeat-Ascending-Long-NOLOOP-01-",
+      "title": "Fatigue-Heartbeat-Ascending-Long-NOLOOP-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Heartbeat-Ascending-Long-NOLOOP-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Heartbeat-Ascending-Long-NOLOOP-01.peaks.json",
+      "dur": 11.76,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Heartbeat-Loop-Constant-01-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Heartbeat-Loop-Constant-01-",
+      "title": "Fatigue-Heartbeat-Loop-Constant-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Heartbeat-Loop-Constant-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Heartbeat-Loop-Constant-01.peaks.json",
+      "dur": 2.94,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-01-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-01-",
+      "title": "Fatigue-Start-NoVoice-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-01.peaks.json",
+      "dur": 1.09,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-02-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-02-",
+      "title": "Fatigue-Start-NoVoice-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-02.peaks.json",
+      "dur": 1.09,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-03-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-03-",
+      "title": "Fatigue-Start-NoVoice-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-03.peaks.json",
+      "dur": 0.71,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-04-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-04-",
+      "title": "Fatigue-Start-NoVoice-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-04.peaks.json",
+      "dur": 1.09,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-05-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-05-",
+      "title": "Fatigue-Start-NoVoice-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-05.peaks.json",
+      "dur": 1.09,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-06-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-NoVoice-06-",
+      "title": "Fatigue-Start-NoVoice-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-NoVoice-06.peaks.json",
+      "dur": 1.09,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-01-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-01-",
+      "title": "Fatigue-Start-VoiceOnly-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-01.peaks.json",
+      "dur": 0.60,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-02-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-02-",
+      "title": "Fatigue-Start-VoiceOnly-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-02.peaks.json",
+      "dur": 0.58,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-03-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-03-",
+      "title": "Fatigue-Start-VoiceOnly-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-03.peaks.json",
+      "dur": 0.65,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-04-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-04-",
+      "title": "Fatigue-Start-VoiceOnly-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-04.peaks.json",
+      "dur": 0.57,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-05-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-05-",
+      "title": "Fatigue-Start-VoiceOnly-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-05.peaks.json",
+      "dur": 0.57,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-06-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-VoiceOnly-06-",
+      "title": "Fatigue-Start-VoiceOnly-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-VoiceOnly-06.peaks.json",
+      "dur": 0.59,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-01-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-01-",
+      "title": "Fatigue-Start-WithVoice-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-01.peaks.json",
+      "dur": 1.12,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-02-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-02-",
+      "title": "Fatigue-Start-WithVoice-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-02.peaks.json",
+      "dur": 1.09,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-03-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-03-",
+      "title": "Fatigue-Start-WithVoice-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-03.peaks.json",
+      "dur": 0.77,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-04-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-04-",
+      "title": "Fatigue-Start-WithVoice-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-04.peaks.json",
+      "dur": 1.09,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-05-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-05-",
+      "title": "Fatigue-Start-WithVoice-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-05.peaks.json",
+      "dur": 1.09,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-06-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Start-WithVoice-06-",
+      "title": "Fatigue-Start-WithVoice-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Start-WithVoice-06.peaks.json",
+      "dur": 1.10,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-01-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-01-",
+      "title": "Fatigue-Stop-NoVoice-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-01.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-02-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-02-",
+      "title": "Fatigue-Stop-NoVoice-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-02.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-03-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-03-",
+      "title": "Fatigue-Stop-NoVoice-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-03.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-04-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-04-",
+      "title": "Fatigue-Stop-NoVoice-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-04.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-05-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-05-",
+      "title": "Fatigue-Stop-NoVoice-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-05.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-06-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-06-",
+      "title": "Fatigue-Stop-NoVoice-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-06.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-07-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-07-",
+      "title": "Fatigue-Stop-NoVoice-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-07.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-08-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-NoVoice-08-",
+      "title": "Fatigue-Stop-NoVoice-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-NoVoice-08.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-01-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-01-",
+      "title": "Fatigue-Stop-VoiceOnly-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-01.peaks.json",
+      "dur": 0.62,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-02-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-02-",
+      "title": "Fatigue-Stop-VoiceOnly-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-02.peaks.json",
+      "dur": 0.60,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-03-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-03-",
+      "title": "Fatigue-Stop-VoiceOnly-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-03.peaks.json",
+      "dur": 0.57,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-04-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-04-",
+      "title": "Fatigue-Stop-VoiceOnly-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-04.peaks.json",
+      "dur": 0.59,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-05-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-05-",
+      "title": "Fatigue-Stop-VoiceOnly-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-05.peaks.json",
+      "dur": 0.54,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-06-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-06-",
+      "title": "Fatigue-Stop-VoiceOnly-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-06.peaks.json",
+      "dur": 0.57,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-07-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-07-",
+      "title": "Fatigue-Stop-VoiceOnly-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-07.peaks.json",
+      "dur": 0.58,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-08-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-VoiceOnly-08-",
+      "title": "Fatigue-Stop-VoiceOnly-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-VoiceOnly-08.peaks.json",
+      "dur": 0.57,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-01-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-01-",
+      "title": "Fatigue-Stop-WithVoice-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-01.peaks.json",
+      "dur": 0.90,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-02-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-02-",
+      "title": "Fatigue-Stop-WithVoice-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-02.peaks.json",
+      "dur": 0.87,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-03-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-03-",
+      "title": "Fatigue-Stop-WithVoice-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-03.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-04-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-04-",
+      "title": "Fatigue-Stop-WithVoice-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-04.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-05-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-05-",
+      "title": "Fatigue-Stop-WithVoice-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-05.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-06-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-06-",
+      "title": "Fatigue-Stop-WithVoice-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-06.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-07-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-07-",
+      "title": "Fatigue-Stop-WithVoice-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-07.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-08-": {
+      "id": "Weapon-Melee--Fatigue--Fatigue-Stop-WithVoice-08-",
+      "title": "Fatigue-Stop-WithVoice-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Fatigue/Fatigue-Stop-WithVoice-08.peaks.json",
+      "dur": 0.86,
+      "category": "Weapon-Melee/Fatigue"
+    },
+    "Footsteps--Concrete-Land--Minion_Concrete_Land-01-": {
+      "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-01-",
+      "title": "Minion_Concrete_Land-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-01.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Concrete Land"
+    },
+    "Footsteps--Concrete-Land--Minion_Concrete_Land-02-": {
+      "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-02-",
+      "title": "Minion_Concrete_Land-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-02.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Concrete Land"
+    },
+    "Footsteps--Concrete-Land--Minion_Concrete_Land-03-": {
+      "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-03-",
+      "title": "Minion_Concrete_Land-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-03.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Concrete Land"
+    },
+    "Footsteps--Concrete-Land--Minion_Concrete_Land-04-": {
+      "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-04-",
+      "title": "Minion_Concrete_Land-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-04.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Concrete Land"
+    },
+    "Footsteps--Concrete-Land--Minion_Concrete_Land-05-": {
+      "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-05-",
+      "title": "Minion_Concrete_Land-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-05.peaks.json",
+      "dur": 0.69,
+      "category": "Footsteps/Concrete Land"
+    },
+    "Footsteps--Concrete-Land--Minion_Concrete_Land-06-": {
+      "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-06-",
+      "title": "Minion_Concrete_Land-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-06.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Concrete Land"
+    },
+    "Footsteps--Concrete-Land--Minion_Concrete_Land-07-": {
+      "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-07-",
+      "title": "Minion_Concrete_Land-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-07.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Concrete Land"
+    },
+    "Footsteps--Concrete-Land--Minion_Concrete_Land-08-": {
+      "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-08-",
+      "title": "Minion_Concrete_Land-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-08.peaks.json",
+      "dur": 0.69,
+      "category": "Footsteps/Concrete Land"
+    },
+    "Footsteps--Concrete-Land--Minion_Concrete_Land-09-": {
+      "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-09-",
+      "title": "Minion_Concrete_Land-09",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-09.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-09.peaks.json",
+      "dur": 0.67,
+      "category": "Footsteps/Concrete Land"
+    },
+    "Footsteps--Concrete-Land--Minion_Concrete_Land-10-": {
+      "id": "Footsteps--Concrete-Land--Minion_Concrete_Land-10-",
+      "title": "Minion_Concrete_Land-10",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-10.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete Land/Minion_Concrete_Land-10.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Concrete Land"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-01-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-01-",
+      "title": "Minion_Concrete_Footstep-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-01.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-02-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-02-",
+      "title": "Minion_Concrete_Footstep-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-02.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-03-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-03-",
+      "title": "Minion_Concrete_Footstep-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-03.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-04-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-04-",
+      "title": "Minion_Concrete_Footstep-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-04.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-05-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-05-",
+      "title": "Minion_Concrete_Footstep-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-05.peaks.json",
+      "dur": 0.66,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-06-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-06-",
+      "title": "Minion_Concrete_Footstep-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-06.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-07-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-07-",
+      "title": "Minion_Concrete_Footstep-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-07.peaks.json",
+      "dur": 0.66,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-08-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-08-",
+      "title": "Minion_Concrete_Footstep-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-08.peaks.json",
+      "dur": 0.66,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-09-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-09-",
+      "title": "Minion_Concrete_Footstep-09",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-09.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-09.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-10-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-10-",
+      "title": "Minion_Concrete_Footstep-10",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-10.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-10.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-11-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-11-",
+      "title": "Minion_Concrete_Footstep-11",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-11.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-11.peaks.json",
+      "dur": 0.66,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-12-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-12-",
+      "title": "Minion_Concrete_Footstep-12",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-12.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-12.peaks.json",
+      "dur": 0.66,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Concrete--Minion_Concrete_Footstep-13-": {
+      "id": "Footsteps--Concrete--Minion_Concrete_Footstep-13-",
+      "title": "Minion_Concrete_Footstep-13",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-13.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Concrete/Minion_Concrete_Footstep-13.peaks.json",
+      "dur": 0.66,
+      "category": "Footsteps/Concrete"
+    },
+    "Footsteps--Tile-Land--Minion_Tile_Land-01-": {
+      "id": "Footsteps--Tile-Land--Minion_Tile_Land-01-",
+      "title": "Minion_Tile_Land-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-01.peaks.json",
+      "dur": 0.67,
+      "category": "Footsteps/Tile Land"
+    },
+    "Footsteps--Tile-Land--Minion_Tile_Land-02-": {
+      "id": "Footsteps--Tile-Land--Minion_Tile_Land-02-",
+      "title": "Minion_Tile_Land-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-02.peaks.json",
+      "dur": 0.67,
+      "category": "Footsteps/Tile Land"
+    },
+    "Footsteps--Tile-Land--Minion_Tile_Land-03-": {
+      "id": "Footsteps--Tile-Land--Minion_Tile_Land-03-",
+      "title": "Minion_Tile_Land-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-03.peaks.json",
+      "dur": 0.67,
+      "category": "Footsteps/Tile Land"
+    },
+    "Footsteps--Tile-Land--Minion_Tile_Land-04-": {
+      "id": "Footsteps--Tile-Land--Minion_Tile_Land-04-",
+      "title": "Minion_Tile_Land-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-04.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Tile Land"
+    },
+    "Footsteps--Tile-Land--Minion_Tile_Land-05-": {
+      "id": "Footsteps--Tile-Land--Minion_Tile_Land-05-",
+      "title": "Minion_Tile_Land-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-05.peaks.json",
+      "dur": 0.67,
+      "category": "Footsteps/Tile Land"
+    },
+    "Footsteps--Tile-Land--Minion_Tile_Land-06-": {
+      "id": "Footsteps--Tile-Land--Minion_Tile_Land-06-",
+      "title": "Minion_Tile_Land-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-06.peaks.json",
+      "dur": 0.67,
+      "category": "Footsteps/Tile Land"
+    },
+    "Footsteps--Tile-Land--Minion_Tile_Land-07-": {
+      "id": "Footsteps--Tile-Land--Minion_Tile_Land-07-",
+      "title": "Minion_Tile_Land-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-07.peaks.json",
+      "dur": 0.67,
+      "category": "Footsteps/Tile Land"
+    },
+    "Footsteps--Tile-Land--Minion_Tile_Land-08-": {
+      "id": "Footsteps--Tile-Land--Minion_Tile_Land-08-",
+      "title": "Minion_Tile_Land-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-08.peaks.json",
+      "dur": 0.70,
+      "category": "Footsteps/Tile Land"
+    },
+    "Footsteps--Tile-Land--Minion_Tile_Land-09-": {
+      "id": "Footsteps--Tile-Land--Minion_Tile_Land-09-",
+      "title": "Minion_Tile_Land-09",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-09.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-09.peaks.json",
+      "dur": 0.67,
+      "category": "Footsteps/Tile Land"
+    },
+    "Footsteps--Tile-Land--Minion_Tile_Land-10-": {
+      "id": "Footsteps--Tile-Land--Minion_Tile_Land-10-",
+      "title": "Minion_Tile_Land-10",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-10.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile Land/Minion_Tile_Land-10.peaks.json",
+      "dur": 0.67,
+      "category": "Footsteps/Tile Land"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-01-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-01-",
+      "title": "Minion_Tile_Footstep-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-01.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-02-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-02-",
+      "title": "Minion_Tile_Footstep-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-02.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-03-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-03-",
+      "title": "Minion_Tile_Footstep-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-03.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-04-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-04-",
+      "title": "Minion_Tile_Footstep-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-04.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-05-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-05-",
+      "title": "Minion_Tile_Footstep-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-05.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-06-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-06-",
+      "title": "Minion_Tile_Footstep-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-06.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-07-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-07-",
+      "title": "Minion_Tile_Footstep-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-07.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-08-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-08-",
+      "title": "Minion_Tile_Footstep-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-08.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-09-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-09-",
+      "title": "Minion_Tile_Footstep-09",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-09.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-09.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-10-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-10-",
+      "title": "Minion_Tile_Footstep-10",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-10.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-10.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-11-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-11-",
+      "title": "Minion_Tile_Footstep-11",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-11.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-11.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-12-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-12-",
+      "title": "Minion_Tile_Footstep-12",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-12.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-12.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Tile--Minion_Tile_Footstep-13-": {
+      "id": "Footsteps--Tile--Minion_Tile_Footstep-13-",
+      "title": "Minion_Tile_Footstep-13",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-13.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Tile/Minion_Tile_Footstep-13.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Tile"
+    },
+    "Footsteps--Wood-Land--Minion_Wood_Land-01-": {
+      "id": "Footsteps--Wood-Land--Minion_Wood_Land-01-",
+      "title": "Minion_Wood_Land-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-01.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Wood Land"
+    },
+    "Footsteps--Wood-Land--Minion_Wood_Land-02-": {
+      "id": "Footsteps--Wood-Land--Minion_Wood_Land-02-",
+      "title": "Minion_Wood_Land-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-02.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Wood Land"
+    },
+    "Footsteps--Wood-Land--Minion_Wood_Land-03-": {
+      "id": "Footsteps--Wood-Land--Minion_Wood_Land-03-",
+      "title": "Minion_Wood_Land-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-03.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Wood Land"
+    },
+    "Footsteps--Wood-Land--Minion_Wood_Land-04-": {
+      "id": "Footsteps--Wood-Land--Minion_Wood_Land-04-",
+      "title": "Minion_Wood_Land-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-04.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Wood Land"
+    },
+    "Footsteps--Wood-Land--Minion_Wood_Land-05-": {
+      "id": "Footsteps--Wood-Land--Minion_Wood_Land-05-",
+      "title": "Minion_Wood_Land-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-05.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Wood Land"
+    },
+    "Footsteps--Wood-Land--Minion_Wood_Land-06-": {
+      "id": "Footsteps--Wood-Land--Minion_Wood_Land-06-",
+      "title": "Minion_Wood_Land-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-06.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Wood Land"
+    },
+    "Footsteps--Wood-Land--Minion_Wood_Land-07-": {
+      "id": "Footsteps--Wood-Land--Minion_Wood_Land-07-",
+      "title": "Minion_Wood_Land-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-07.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Wood Land"
+    },
+    "Footsteps--Wood-Land--Minion_Wood_Land-08-": {
+      "id": "Footsteps--Wood-Land--Minion_Wood_Land-08-",
+      "title": "Minion_Wood_Land-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-08.peaks.json",
+      "dur": 0.71,
+      "category": "Footsteps/Wood Land"
+    },
+    "Footsteps--Wood-Land--Minion_Wood_Land-09-": {
+      "id": "Footsteps--Wood-Land--Minion_Wood_Land-09-",
+      "title": "Minion_Wood_Land-09",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-09.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-09.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Wood Land"
+    },
+    "Footsteps--Wood-Land--Minion_Wood_Land-10-": {
+      "id": "Footsteps--Wood-Land--Minion_Wood_Land-10-",
+      "title": "Minion_Wood_Land-10",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-10.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood Land/Minion_Wood_Land-10.peaks.json",
+      "dur": 0.68,
+      "category": "Footsteps/Wood Land"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-01-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-01-",
+      "title": "Minion_Wood_Footstep-01",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-01.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-01.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-02-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-02-",
+      "title": "Minion_Wood_Footstep-02",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-02.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-02.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-03-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-03-",
+      "title": "Minion_Wood_Footstep-03",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-03.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-03.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-04-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-04-",
+      "title": "Minion_Wood_Footstep-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-04.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-05-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-05-",
+      "title": "Minion_Wood_Footstep-05",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-05.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-05.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-06-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-06-",
+      "title": "Minion_Wood_Footstep-06",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-06.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-06.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-07-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-07-",
+      "title": "Minion_Wood_Footstep-07",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-07.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-07.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-08-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-08-",
+      "title": "Minion_Wood_Footstep-08",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-08.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-08.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-09-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-09-",
+      "title": "Minion_Wood_Footstep-09",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-09.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-09.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-10-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-10-",
+      "title": "Minion_Wood_Footstep-10",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-10.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-10.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-11-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-11-",
+      "title": "Minion_Wood_Footstep-11",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-11.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-11.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-12-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-12-",
+      "title": "Minion_Wood_Footstep-12",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-12.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-12.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Footsteps--Wood--Minion_Wood_Footstep-13-": {
+      "id": "Footsteps--Wood--Minion_Wood_Footstep-13-",
+      "title": "Minion_Wood_Footstep-13",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-13.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Footsteps/Wood/Minion_Wood_Footstep-13.peaks.json",
+      "dur": 0.65,
+      "category": "Footsteps/Wood"
+    },
+    "Jump--Archived--Minion_Jump-01---": {
+      "id": "Jump--Archived--Minion_Jump-01---",
+      "title": "Minion_Jump-01  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-01  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-01  .peaks.json",
+      "dur": 0.22,
+      "category": "Jump/Archived"
+    },
+    "Jump--Archived--Minion_Jump-02---": {
+      "id": "Jump--Archived--Minion_Jump-02---",
+      "title": "Minion_Jump-02  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-02  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-02  .peaks.json",
+      "dur": 0.27,
+      "category": "Jump/Archived"
+    },
+    "Jump--Archived--Minion_Jump-03---": {
+      "id": "Jump--Archived--Minion_Jump-03---",
+      "title": "Minion_Jump-03  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-03  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-03  .peaks.json",
+      "dur": 0.19,
+      "category": "Jump/Archived"
+    },
+    "Jump--Archived--Minion_Jump-04---": {
+      "id": "Jump--Archived--Minion_Jump-04---",
+      "title": "Minion_Jump-04  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-04  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-04  .peaks.json",
+      "dur": 0.39,
+      "category": "Jump/Archived"
+    },
+    "Jump--Archived--Minion_Jump-05---": {
+      "id": "Jump--Archived--Minion_Jump-05---",
+      "title": "Minion_Jump-05  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-05  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-05  .peaks.json",
+      "dur": 0.37,
+      "category": "Jump/Archived"
+    },
+    "Jump--Archived--Minion_Jump-06---": {
+      "id": "Jump--Archived--Minion_Jump-06---",
+      "title": "Minion_Jump-06  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-06  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-06  .peaks.json",
+      "dur": 0.23,
+      "category": "Jump/Archived"
+    },
+    "Jump--Archived--Minion_Jump-07---": {
+      "id": "Jump--Archived--Minion_Jump-07---",
+      "title": "Minion_Jump-07  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-07  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-07  .peaks.json",
+      "dur": 0.27,
+      "category": "Jump/Archived"
+    },
+    "Jump--Archived--Minion_Jump-08---": {
+      "id": "Jump--Archived--Minion_Jump-08---",
+      "title": "Minion_Jump-08  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-08  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-08  .peaks.json",
+      "dur": 0.24,
+      "category": "Jump/Archived"
+    },
+    "Jump--Archived--Minion_Jump-09---": {
+      "id": "Jump--Archived--Minion_Jump-09---",
+      "title": "Minion_Jump-09  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-09  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-09  .peaks.json",
+      "dur": 0.36,
+      "category": "Jump/Archived"
+    },
+    "Jump--Archived--Minion_Jump-10---": {
+      "id": "Jump--Archived--Minion_Jump-10---",
+      "title": "Minion_Jump-10  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-10  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Archived/Minion_Jump-10  .peaks.json",
+      "dur": 0.23,
+      "category": "Jump/Archived"
+    },
+    "Jump--Flip--Minion_Flip-01---": {
+      "id": "Jump--Flip--Minion_Flip-01---",
+      "title": "Minion_Flip-01  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-01  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-01  .peaks.json",
+      "dur": 0.31,
+      "category": "Jump/Flip"
+    },
+    "Jump--Flip--Minion_Flip-02---": {
+      "id": "Jump--Flip--Minion_Flip-02---",
+      "title": "Minion_Flip-02  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-02  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-02  .peaks.json",
+      "dur": 0.32,
+      "category": "Jump/Flip"
+    },
+    "Jump--Flip--Minion_Flip-03---": {
+      "id": "Jump--Flip--Minion_Flip-03---",
+      "title": "Minion_Flip-03  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-03  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-03  .peaks.json",
+      "dur": 0.30,
+      "category": "Jump/Flip"
+    },
+    "Jump--Flip--Minion_Flip-04---": {
+      "id": "Jump--Flip--Minion_Flip-04---",
+      "title": "Minion_Flip-04  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-04  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-04  .peaks.json",
+      "dur": 0.31,
+      "category": "Jump/Flip"
+    },
+    "Jump--Flip--Minion_Flip-05---": {
+      "id": "Jump--Flip--Minion_Flip-05---",
+      "title": "Minion_Flip-05  ",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-05  .wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/Flip/Minion_Flip-05  .peaks.json",
+      "dur": 0.30,
+      "category": "Jump/Flip"
+    },
+    "Jump--JumpV2--Minion_JumpV2-01_0dB-": {
+      "id": "Jump--JumpV2--Minion_JumpV2-01_0dB-",
+      "title": "Minion_JumpV2-01_0dB",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-01_0dB.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-01_0dB.peaks.json",
+      "dur": 1.16,
+      "category": "Jump/JumpV2"
+    },
+    "Jump--JumpV2--Minion_JumpV2-02_0dB-": {
+      "id": "Jump--JumpV2--Minion_JumpV2-02_0dB-",
+      "title": "Minion_JumpV2-02_0dB",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-02_0dB.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-02_0dB.peaks.json",
+      "dur": 1.16,
+      "category": "Jump/JumpV2"
+    },
+    "Jump--JumpV2--Minion_JumpV2-03_0dB-": {
+      "id": "Jump--JumpV2--Minion_JumpV2-03_0dB-",
+      "title": "Minion_JumpV2-03_0dB",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-03_0dB.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-03_0dB.peaks.json",
+      "dur": 1.21,
+      "category": "Jump/JumpV2"
+    },
+    "Jump--JumpV2--Minion_JumpV2-04_0dB-": {
+      "id": "Jump--JumpV2--Minion_JumpV2-04_0dB-",
+      "title": "Minion_JumpV2-04_0dB",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-04_0dB.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-04_0dB.peaks.json",
+      "dur": 1.16,
+      "category": "Jump/JumpV2"
+    },
+    "Jump--JumpV2--Minion_JumpV2-05_0dB-": {
+      "id": "Jump--JumpV2--Minion_JumpV2-05_0dB-",
+      "title": "Minion_JumpV2-05_0dB",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-05_0dB.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-05_0dB.peaks.json",
+      "dur": 1.16,
+      "category": "Jump/JumpV2"
+    },
+    "Jump--JumpV2--Minion_JumpV2-06_0dB-": {
+      "id": "Jump--JumpV2--Minion_JumpV2-06_0dB-",
+      "title": "Minion_JumpV2-06_0dB",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-06_0dB.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-06_0dB.peaks.json",
+      "dur": 1.16,
+      "category": "Jump/JumpV2"
+    },
+    "Jump--JumpV2--Minion_JumpV2-07_0dB-": {
+      "id": "Jump--JumpV2--Minion_JumpV2-07_0dB-",
+      "title": "Minion_JumpV2-07_0dB",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-07_0dB.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-07_0dB.peaks.json",
+      "dur": 1.16,
+      "category": "Jump/JumpV2"
+    },
+    "Jump--JumpV2--Minion_JumpV2-08_0dB-": {
+      "id": "Jump--JumpV2--Minion_JumpV2-08_0dB-",
+      "title": "Minion_JumpV2-08_0dB",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-08_0dB.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Jump/JumpV2/Minion_JumpV2-08_0dB.peaks.json",
+      "dur": 1.16,
+      "category": "Jump/JumpV2"
     }
   },
-  "updated": 1762823377
+  "updated": 1762823944
 }
