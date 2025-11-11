@@ -207,10 +207,10 @@
         "dur": 0.64
       },
       {
-        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-04--",
-        "title": "Weapon-Swing-LightV3-04 ",
-        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04 .wav",
-        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04 .peaks.json",
+        "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-04-",
+        "title": "Weapon-Swing-LightV3-04",
+        "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04.wav",
+        "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04.peaks.json",
         "dur": 0.84
       },
       {
@@ -497,11 +497,11 @@
       "dur": 0.64,
       "category": "Axe/WeaponSwingLightV2"
     },
-    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-04--": {
-      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-04--",
-      "title": "Weapon-Swing-LightV3-04 ",
-      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04 .wav",
-      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04 .peaks.json",
+    "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-04-": {
+      "id": "Axe--WeaponSwingLightV2--Weapon-Swing-LightV3-04-",
+      "title": "Weapon-Swing-LightV3-04",
+      "src": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04.wav",
+      "peaks": "https://thepiratecowboy.github.io/imagesWeb/WebsiteReady/AudioPlayer/Weapon-Melee/Axe/WeaponSwingLightV2/Weapon-Swing-LightV3-04.peaks.json",
       "dur": 0.84,
       "category": "Axe/WeaponSwingLightV2"
     },
@@ -562,5 +562,5 @@
       "category": "Axe/WeaponSwingLightV2"
     }
   },
-  "updated": 1762823062
+  "updated": 1762823283
 }
