@@ -6,7 +6,8 @@ AUDIO_ROOT="WebsiteReady/AudioPlayer"
 MANIFEST="$AUDIO_ROOT/manifest.json"
 BASE_URL="https://thepiratecowboy.github.io/imagesWeb"   # your GitHub Pages prefix
 PPS=480      # pixels-per-second for waveform density (50–80 looks good)
-BITS=8      # 8-bit JSON stays small
+BITS=8  
+FORCE="${FORCE:-0}"   # set FORCE=1 to regenerate peaks even if they exist    # 8-bit JSON stays small
 
 # ===== Setup / checks =====
 REPO_ROOT="$(git rev-parse --show-toplevel 2>/dev/null || pwd)"
@@ -55,32 +56,27 @@ while IFS= read -r -d '' REL; do
   # Make sure output dir exists
   mkdir -p "$(dirname "$PEAK_JSON")"
 
-  # Generate peaks if missing
-  if [[ -f "$PEAK_JSON" ]]; then
-    DUR="$(dur_sec "$REL")"
+  # Duration (use original file)
+  DUR="$(dur_sec "$REL")"
+
+  # Generate peaks if missing OR forcing
+  if [[ -f "$PEAK_JSON" && "$FORCE" != "1" ]]; then
+    :
   else
     echo "Generating peaks:"
     echo "  in : $REL"
     echo "  out: $PEAK_JSON"
 
-    # Normalize to a known-safe temp WAV (16-bit mono 48k)
+    # Normalize with ffmpeg to a safe, simple format for audiowaveform
     FIX="$(mktemp "${TMPDIR:-/tmp}/awffix.XXXXXX").wav"
-    "$FFMPEG" -y -hide_banner -loglevel error \
-      -i "$REL" -ac 1 -c:a pcm_s16le -ar 48000 "$FIX"
+    "$FFMPEG" -y -hide_banner -loglevel error -i "$REL" -ac 1 -c:a pcm_s16le -ar 48000 "$FIX"
 
-    if [[ ! -s "$FIX" ]]; then
-      echo "  ffmpeg failed for: $REL"
-      rm -f "$FIX"
-      exit 1
-    fi
-
-    # Temp output MUST end with .json so audiowaveform recognizes format
-    tmp_out="$(mktemp "$(dirname "$PEAK_JSON")/.$(basename "$PEAK_JSON" .json).XXXXXX.json")"
+    # Build peaks JSON
+    tmp_out="${PEAK_JSON}.partial.json"
     "$AWF" -i "$FIX" -o "$tmp_out" --pixels-per-second "$PPS" --bits "$BITS"
+
     mv -f "$tmp_out" "$PEAK_JSON"
     rm -f "$FIX"
-
-    DUR="$(dur_sec "$REL")"
   fi
 
   # Category = last two dirs under AUDIO_ROOT (e.g. Axe/WeaponSwingHeavy)
